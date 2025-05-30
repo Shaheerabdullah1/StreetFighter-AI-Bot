@@ -62,5 +62,8 @@ Scikit-learn
 joblib
 xlrd, xlwt, xlutils
 ````
+
 Acknowledgements
 This project is inspired by reinforcement and supervised learning in games, integrating emulator scripting and ML inference in real-time.
+
+![Street Fighter](screen-shot.png)
