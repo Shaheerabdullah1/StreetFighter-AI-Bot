@@ -64,6 +64,7 @@ xlrd, xlwt, xlutils
 ````
 
 Acknowledgements
+```bash
 This project is inspired by reinforcement and supervised learning in games, integrating emulator scripting and ML inference in real-time.
-
+`````
 ![Street Fighter](screen-shot.png)
